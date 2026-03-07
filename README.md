@@ -6,6 +6,8 @@
   #### :golf: I aim to become a AI-Based Modeling and Simulation(M&S) Engineer.<br/>
   #### :mortar_board: Bachelor of Military Digital Convergence, Ajou University
   #### :mortar_board: Master's Student in Military Digital Convergence, Ajou University
+
+  #### :sparkles: Interested In: Artificial Intelligence, Geographic Information System, Missile Guidance, 3D Engine
   <br/>
   <br/>
   
