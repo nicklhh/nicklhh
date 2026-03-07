@@ -41,6 +41,11 @@
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <br/>
   <br/>
+
+  ## :pencil: Publications
+  |Journal|Journal Name|Subject|
+  |-----|-----|-----|
+  |Domestic Journal|The Korean Society for Aeronautical and Space Sciences|Terminal Homing Guidance Algorithm for Ballistic Missile Interception Based on Deep Reinforcement Learning (Minseok Seo, Jongho Park)|
   
   
 </div>
