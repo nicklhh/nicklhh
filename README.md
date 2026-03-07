@@ -7,7 +7,7 @@
   #### :mortar_board: Bachelor of Military Digital Convergence, Ajou University
   #### :mortar_board: Master's Student in Military Digital Convergence, Ajou University
 
-  #### :sparkles: Interested In: Artificial Intelligence, Geographic Information System, Missile Guidance, 3D Engine
+  #### :sparkles: Interested In: Reinforcement Learning, Geographic Information System, Missile Guidance, 3D Engine
   <br/>
   <br/>
   
